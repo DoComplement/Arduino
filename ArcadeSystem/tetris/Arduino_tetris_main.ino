@@ -1,20 +1,6 @@
 
-/* Current updates
-
-1. Allow objects to slide underneath objects:
-  - allow for one y-directional movement after the object can't move downward
-
-2. other
-  - perhaps decrease the rotation period
-
-2. optimize code for legibility 
-  - implicit simplifications
-
-*/
-
-
-#include <RGBmatrixPanel.h>
-#include <AlmostRandom.h>
+#include <RGBmatrixPanel.h>				// RGB matrix panel	-	https://github.com/adafruit/RGB-matrix-Panel
+#include <AlmostRandom.h>					// AlmostRandom			- https://github.com/cygig/AlmostRandom
 
 #define CLK  8 
 #define OE   9
