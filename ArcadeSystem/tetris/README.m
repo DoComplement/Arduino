@@ -7,3 +7,5 @@ Things to improve:
   - improve the sequence that objects are randomly generated ..?
   - scoring (quantity of rows cleared before failure)
     - add scoring -> current high score, best score
+
+  ** Encapsulate modules
